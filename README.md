@@ -9,4 +9,4 @@ The design for this headlamp is released under the IEEE Open Source Hardware Lic
 
 License
 =========
-Test.
+The design for the headlamp is released under the IEEE Open Source Hardware License. 
