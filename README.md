@@ -12,6 +12,7 @@ License
 The design for the headlamp is released under the CERN Open Hardware License. http://www.ohwr.org/projects/cernohl/wiki
 
 ![](http://img.deusm.com/eetimes/2013/12/1320434/ohr-mascot-366x207.jpg)
+
 The License:
 
 Preamble
