@@ -12,7 +12,8 @@ License
 The design for the headlamp is released under the CERN Open Hardware License. http://www.ohwr.org/projects/cernohl/wiki
 
 The License:
-reamble
+
+Preamble
 
 Through this CERN Open Hardware Licence ("CERN OHL") version 1.2, CERN
 wishes to provide a tool to foster collaboration and sharing among
