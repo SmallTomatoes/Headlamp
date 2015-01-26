@@ -37,6 +37,7 @@ Circuit Construction
 =========
 If you want to build this circuit yourself from scratch, you can order a kit here:
 Or, you could look at the following list of parts and make your own kit. I give suggestions below based off of the parts I specifically used in the second list. 
+
 **Parts list**
 - 1 Watt Neutral White LED 
 - Ferrite Bead 
