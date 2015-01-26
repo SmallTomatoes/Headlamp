@@ -28,3 +28,4 @@ voltage gain. This was experimentally observed, and theoretically calculated. Th
 nominal 3.0V LED to be driven from a 1.2V battery. 
 
 Modeling of the voltage and current of the circuit can be found here: 
+[Schematics-Modeling](https://github.com/SmallTomatoes/Headlamp/tree/master/Schematics-Modeling)
