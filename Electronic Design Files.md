@@ -27,5 +27,24 @@ of 1.2V, so the LED output appears continuous. Increasing the number of turns ar
 voltage gain. This was experimentally observed, and theoretically calculated. The operation of the circuit allows the
 nominal 3.0V LED to be driven from a 1.2V battery. 
 
+*Shortcut: In other words, this is a slightly-optimied joule-theif circuit!*
+
 Modeling of the voltage and current of the circuit can be found here: 
 [Schematics-Modeling](https://github.com/SmallTomatoes/Headlamp/tree/master/Schematics-Modeling)
+
+=========
+Circuit Construction
+=========
+If you want to build this circuit yourself from scratch, you can order a kit here:
+Or, you could look at the following list of parts and make your own kit. I give suggestions below based off of the parts I specifically used in the second list. 
+**Parts list**
+- 1 Watt Neutral White LED 
+- Ferrite Bead 
+- NPN transistor 
+- 1 kohm 1/4 watt tolerance
+- 1,200mAh AA NiMH (nickle-metal hydride) recharable battery
+- laminated copper wire, about 32 AWG
+- 22 AWG insulated stranded copper wire, about 7"
+- 22 AWG insulated solid copper wire, about 4"
+
+*TBC*
