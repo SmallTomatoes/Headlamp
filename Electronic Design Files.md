@@ -48,4 +48,7 @@ Or, you could look at the following list of parts and make your own kit. I give 
 - 22 AWG insulated stranded copper wire, about 7"
 - 22 AWG insulated solid copper wire, about 4"
 
-*TBC*
+**Specific Parts Suggestion**
+- LED: [Luxeon Rebel Endor Star](http://www.ledsupply.com/leds/luxeon-rebel-endor-star-1-up-neutral-white-high-power-led) (LED with metal core PCB) or simply the [Luxeon Rebel Emitter](http://www.ledsupply.com/leds/luxeon-rebel-emitter-neutral-white-4000k)
+- Ferrite Bead: If you want to fit the transistor insdie the ferrite bead, the inner diameter of the bead needs to be about 1mm larger than the width of the transistor, and about 9mm long. There are three examples of ferrite beads that fit this specification in the [Spec Sheets](https://github.com/SmallTomatoes/Headlamp/tree/master/Spec%20Sheets) folder. 
+- to be continued
