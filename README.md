@@ -7,6 +7,10 @@ This repository is for the design files of the OSH headlamp. The purpose, backgr
 
 The design for this headlamp is released under the CERN Open Hardware License (see below). The headlamp can be though of being composed of two parts: the electrical part and the mechanical part. The electrical part includes the electronic circuit of the lamp; the mechanical part includes the enclosure for the battery, enclosure for the circuit, the on/off switch, and the headband or other hands-free component. The files in this repository are primarily for support on the electrical design. More files will be added later for guidance and suggestions on creating the hardware enclosure for the headlamp, on/off switch designs, and headband designs.
 
+Design Files
+=========
+For information on how to build the circuit, a complete explanation can be found in [Electronic Design](https://github.com/SmallTomatoes/Headlamp/blob/master/Electronic%20Design%20Files.md). 
+
 License
 =========
 The design for the headlamp is released under the CERN Open Hardware License. http://www.ohwr.org/projects/cernohl/wiki
