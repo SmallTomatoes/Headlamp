@@ -3,7 +3,7 @@ If the design goals can be achieved through a different deisgn, the headlamp des
 or less simple.  Design goals: 
 1. The product can be repaired or replaced by someone within one-day of traveling. 
 2. The product design minimizes the need for industrial manufacturing. 
-3. The product design maximizes the use of recyled, reused, or biodegradable materials. Ideally, at least of the parts (by weight-toxicity) fall under this category. (See Weight-toxicity page for instructions - Coming Soon)  
+3. The product design maximizes the use of recyled, reused, or biodegradable materials. 
 4. The design minimizes cost of the product. Ideally, all parts (excluding charging device) cost less than $7 USD per headlamp.
 
 The design information below describes the first, licensed, open-source design for the headlamp. 
@@ -50,5 +50,10 @@ Or, you could look at the following list of parts and make your own kit. I give 
 
 **Specific Parts Suggestion**
 - LED: [Luxeon Rebel Endor Star](http://www.ledsupply.com/leds/luxeon-rebel-endor-star-1-up-neutral-white-high-power-led) (LED with metal core PCB) or simply the [Luxeon Rebel Emitter](http://www.ledsupply.com/leds/luxeon-rebel-emitter-neutral-white-4000k)
-- Ferrite Bead: If you want to fit the transistor insdie the ferrite bead, the inner diameter of the bead needs to be about 1mm larger than the width of the transistor, and about 9mm long. There are three examples of ferrite beads that fit this specification in the [Spec Sheets](https://github.com/SmallTomatoes/Headlamp/tree/master/Spec%20Sheets) folder. 
-- to be continued
+- Ferrite Bead: If you want to fit the transistor insdie the ferrite bead, the inner diameter of the bead needs to be about 1mm larger than the width of the transistor, and about 9mm long. There are three examples of ferrite beads that fit this specification in the [Spec Sheets](https://github.com/SmallTomatoes/Headlamp/tree/master/Spec%20Sheets) folder. For the transistor recommended (below), the specs for the ferrite bead are as follows:
+  * Inner diameter: 4.75mm
+  * Outer diameter: 9.50mm
+  * Length: 10.4mm
+- NPN Transistor: Transistor should have a low collector-emitter saturation voltage and perform well with a low supply voltage. I have had good results with the Fairchild KSD5041. Common hobby transistors did not allow for a bright LED output. The ZTX1048A transistor [ZTX Spec Sheet](https://github.com/SmallTomatoes/Headlamp/blob/master/Spec%20Sheets/ZTX1048A-92228.pdf) produced a high-pitch noise with all other components remaining the same. 
+
+
